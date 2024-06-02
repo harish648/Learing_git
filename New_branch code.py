@@ -1,7 +1,6 @@
-#this is a sample file checking to add to git
+a= "harish"
 
-a=5
-for i in range(a):
+for i in a:
     print(i)
-#this
 
+#check for Harish
